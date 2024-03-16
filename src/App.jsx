@@ -1,11 +1,7 @@
-import "./App.css";
+import React from "react";
 
 function App() {
-  return (
-    <>
-      <h1 className="bg-green-500 p-4 ">Hey you</h1>
-    </>
-  );
+  return <div>App</div>;
 }
 
 export default App;
